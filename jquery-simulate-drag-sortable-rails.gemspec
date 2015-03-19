@@ -5,7 +5,7 @@ require 'jquery/simulate/drag/sortable/rails/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "jquery-simulate-drag-sortable-rails"
-  spec.version       = JquerySimulateDragSortable::Rails::VERSION
+  spec.version       = Jquery::Simulate::Drag::Sortable::Rails::VERSION
   spec.authors       = ["John LeBoeuf-Little"]
   spec.email         = ["worldnamer@worldnamer.com"]
 
